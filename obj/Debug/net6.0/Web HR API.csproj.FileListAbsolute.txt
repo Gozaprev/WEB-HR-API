@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\HR API\Web HR API\obj\Debug\net6.0\Web HR API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HR API\Web HR API\obj\Debug\net6.0\Web HR API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HR API\Web HR API\obj\Debug\net6.0\Web HR API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HR API\Web HR API\obj\Debug\net6.0\Web HR API.AssemblyInfo.cs
+C:\Users\User\Desktop\HR API\Web HR API\obj\Debug\net6.0\Web HR API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HR API\Web HR API\obj\Debug\net6.0\Web HR API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\HR API\Web HR API\obj\Debug\net6.0\Web HR API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\HR API\Web HR API\obj\Debug\net6.0\Web HR API.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\HR API\Web HR API\obj\Debug\net6.0\Web HR API.RazorAssemblyInfo.cs
